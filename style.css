@@ -197,5 +197,55 @@
 
 }
 
+.footer {
+    display: flex;
+    height: 27vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content {
+    display: flex;
+    background-color: #3b82f6;
+    padding: 20px;
+    width: 70vw;
+    align-items: center;
+    border-radius: 5px;
+    justify-content: center;
+
+    
+}
+
+
+.footer-text {
+    color: #FFFFFF;
+    flex: 1;
+    
+    
+}
+
+.footer-header {
+    font-weight: bold;
+}
+
+.button-div {
+    display: flex;
+    flex:1;
+    justify-content: center;
+}
+.cta-button {
+    font-weight: bold;
+    background-color: #3b82f6;
+    flex: none;
+    padding: 20px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border: 2px solid #ffffff;
+    box-shadow: none;
+
+}
+
+
+
 
 
